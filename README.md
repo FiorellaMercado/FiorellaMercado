@@ -1,9 +1,5 @@
 
-<div align="center">
-  <img width="100%" src="https://t4.ftcdn.net/jpg/08/86/49/53/360_F_886495385_XudXZcfZb7FqTwSWpDjwOEWfsol6Sw6e.jpg" />
-</div>
-
-<h1 align="center">¡Hola! 👋 Soy Fio</h1>
+<h1 align="center">¡Hola! 👋🏻 Soy Fio</h1>
 <h3 align="center">💻 Backend Developer en formación</h3>
 <div>
   
