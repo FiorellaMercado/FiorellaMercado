@@ -1,7 +1,5 @@
-<div align="center">
-  <img height="200" src="https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-52267.jpg?semt=ais_hybrid&w=740&q=80"  />
-</div>
 
+![glasses-lie-laptop-reflecting-light-from-screen-dark](https://github.com/user-attachments/assets/48081a88-b85b-40c1-b593-91d9404ce6d7)
 
 
 
@@ -40,17 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FiorellaMercado/FiorellaMercado/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FiorellaMercado/FiorellaMercado/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FiorellaMercado/FiorellaMercado/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
-
+---
 
 ## 📈 Actualmente
 
