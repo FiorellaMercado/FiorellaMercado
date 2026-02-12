@@ -1,12 +1,17 @@
 
-<div>
-  <img style="100%" src="https://media.licdn.com/dms/image/v2/C5616AQEc_7jrBkWsOg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1644153228378?e=2147483647&v=beta&t=cnQucZHyz143zFxxcG0bDUXokb_0TnN8QNujV4uJqs4"  />
+<div align="center">
+  <img width="100%" src="https://t4.ftcdn.net/jpg/08/86/49/53/360_F_886495385_XudXZcfZb7FqTwSWpDjwOEWfsol6Sw6e.jpg" />
 </div>
+
+<h1 align="center">¡Hola! 👋 Soy Fio</h1>
+<h3 align="center">💻 Backend Developer en formación</h3>
+<div>
+  
 
 
 ## 🚀 Sobre mí
 
-🎓 Estudiante de Ingeniería en Ingeniería en Informática  
+🎓 Estudiante de **Ingeniería en Informática**  
 🏛 Universidad Americana – Paraguay   
 
 
