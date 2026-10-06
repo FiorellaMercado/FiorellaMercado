@@ -6,7 +6,7 @@
 
 ###
 <h1 align="center">¡Hola! Soy Fio</h1>
-<h3 align="center">💻 Backend Developer en formación</h3>
+<h3 align="center"> Backend Developer en formación</h3>
 <div>
   
 
