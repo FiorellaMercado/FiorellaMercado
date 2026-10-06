@@ -11,7 +11,7 @@
   
 
 
-## 🚀 Sobre mí
+##  Sobre mí
 
 🎓 Estudiante de **Ingeniería en Informática**  
 🏛 Universidad Americana – Paraguay   
