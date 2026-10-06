@@ -58,9 +58,9 @@
 
 ##  Contacto
 
-💼 LinkedIn: https://www.linkedin.com/in/fiorellamercado22 
+LinkedIn: https://www.linkedin.com/in/fiorellamercado22 
 
-📧 Email: mercadofiorella598@gmail.com
+Email: mercadofiorella598@gmail.com
 
 ---
 
