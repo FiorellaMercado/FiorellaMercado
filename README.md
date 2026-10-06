@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠 Lenguajes y herramientas
+##  Lenguajes y herramientas
 
 
 ###
@@ -49,14 +49,14 @@
 
 ---
 
-## 📈 Actualmente
+##  Actualmente
 
 - Mejorando mis habilidades en desarrollo backend  
 - Buscando oportunidades para prácticas o pasantías
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 💼 LinkedIn: https://www.linkedin.com/in/fiorellamercado22 
 
